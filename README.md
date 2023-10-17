@@ -47,7 +47,7 @@ With the following software and hardware list you can run all code files present
 | 1-11 | Oracle Java | PortSwigger account to access labs |
 
 ### Related products
-* Restful Java Web Services, Third Edition: A pragmatic guide to designing and building RESTful APIs using Java [[Packt]](https://www.packtpub.com/product/restful-java-web-services-third-edition/9781788294041) [[Amazon]](https://www.amazon.in/RESTful-Java-Web-Services-Third/dp/1788294041/)
+* Restful Java Web Services [[Packt]](https://www.packtpub.com/product/restful-java-web-services-third-edition/9781788294041) [[Amazon]](https://www.amazon.in/RESTful-Java-Web-Services-Third/dp/1788294041/)
 
 * Zed Attack Proxy Cookbook [[Packt]](https://www.packtpub.com/product/zed-attack-proxy-cookbook/9781801817332) [[Amazon]](https://www.amazon.in/Zed-Attack-Proxy-Cookbook-applications/dp/1801817332/ref=sr_1_1?crid=2DY4DC0HRJY5Q&keywords=Zed+Attack+Proxy+Cookbook&qid=1697544928&sprefix=zed+attack+proxy+cookbook%2Caps%2C257&sr=8-1)
 
